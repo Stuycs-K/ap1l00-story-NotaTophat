@@ -33,3 +33,5 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 9. Pull those changes onto your personal device.
 10. Make more changes on your personal device (add formatting or change the [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) ) and push them to github. Do this 2 times so there are 2 more commits (8-9 total commits, 1-2 starting commits, 3 by you in the lab, 1 from website, 3 at home.)
 11. All of the "madlibs" style placeholders should be replaced when you are done with 6 total commits, some formatting changes, and some git markdown.
+
+12. #FIVE BIG BOOMS FOR THIS DOUBLE CHNK CHOCKALATE SHIP!!!
